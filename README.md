@@ -1,1 +1,3 @@
 # landing-page
+ Landing Page Development
+I designed and developed a modern, conversion-focused landing page using HTML, CSS, and JavaScript. The page features a clean layout with a gradient background, bold typography, and a responsive design. Smooth animations and transitions enhance the user experience. A prominent call-to-action button encourages users to engage, while visual elements are optimized for clarity and appeal. The JavaScript adds interactivity, including a welcome alert and dynamic background color change. The page is fully responsive across devices. Font, color, and spacing were carefully chosen to maximize user retention. This project showcases my UI/UX skills in crafting engaging landing experiences.
